@@ -51,9 +51,7 @@ I am looking for an opportunity to start my career as a Junior Data Analyst wher
 
 - Location: Lithuania, Kaunas
 - GitHub: [domas-sem](https://github.com/domas-sem)
-- LinkedIn: www.linkedin.com/in/domas-semenauskas
-
-
+- LinkedIn: [www.linkedin.com/in/domas-semenauskas](https://www.linkedin.com/in/domas-semenauskas)
 
 <!--
 **domas-sem/domas-sem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
