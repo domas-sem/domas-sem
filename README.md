@@ -23,7 +23,7 @@ I recently completed intensive data analytics training and continue improving my
 At the moment, I am organizing my GitHub portfolio and preparing my learning projects for publication.
 
 ## Skills
-
+- AI utility for Business Intelligence
 - Python
 - SQL
 - Power BI
