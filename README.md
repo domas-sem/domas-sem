@@ -12,17 +12,22 @@ I recently completed intensive data analytics training and continue improving my
 
 ## What I'm learning and building
 
-- Python for data analysis and automation.
-- SQL for querying, filtering, aggregation, and database problem-solving.
-- Power BI reports using DAX and data visualizations.
-- Excel for structured analysis and reporting.
-- ETL and data preparation workflows.
+- Python for data analysis and automation
+- SQL for querying, filtering, aggregation, and database problem-solving
+- Power BI reports using DAX and data visualizations
+- Excel for structured analysis and reporting
+- ETL and data preparation workflows
 
 ## Current focus
 
-At the moment, I am organizing my GitHub portfolio and preparing my learning projects for publication.
+Right now I am structuring my GitHub portfolio and publishing learning projects, starting with Python and SQL practice work from my CodeAcademy Data Analytics course.
+
+You can already see this in my practice repository:
+
+- [`codecademy-data-analytics-course-practice`](https://github.com/domas-sem/codecademy-data-analytics-course-practice)
 
 ## Skills
+
 - AI utility for Business Intelligence
 - Python
 - SQL
@@ -39,9 +44,12 @@ At the moment, I am organizing my GitHub portfolio and preparing my learning pro
 
 This GitHub profile will be used to showcase my progress and practical projects in:
 
-- Python data analysis.
-- SQL querying and database exercises.
-- Data cleaning and transformation tasks.
+- Python data analysis
+- SQL querying and database exercises
+- Data cleaning and transformation tasks
+- Dashboarding and reporting
+
+As I continue learning, I will gradually add more focused portfolio projects alongside my practice repositories.
 
 ## Career goal
 
@@ -54,16 +62,5 @@ I am looking for an opportunity to start my career as a Junior Data Analyst wher
 - LinkedIn: [www.linkedin.com/in/domas-semenauskas](https://www.linkedin.com/in/domas-semenauskas)
 
 <!--
-**domas-sem/domas-sem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**domas-sem/domas-sem** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
