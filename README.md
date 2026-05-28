@@ -20,21 +20,25 @@ I recently completed intensive data analytics training and continue improving my
 
 ## Current focus
 
-Right now I am structuring my GitHub portfolio and publishing learning projects, starting with Python and SQL practice work from my CodeAcademy Data Analytics course.
+Right now I am publishing my portfolio projects and continuing to build new ones.
+
+- Starting with Python and SQL practice work from my CodeAcademy Data Analytics course.
+- EuroLeague Basketball Analytics dashboard built with Power BI, DAX, and Power Query, covering 10 seasons of data.
+
+
 
 You can already see this in my practice repository:
 
 - [`codecademy-data-analytics-course-practice`](https://github.com/domas-sem/codecademy-data-analytics-course-practice)
+- [`euroleague-analytics-power-bi-project`](https://github.com/domas-sem/euroleague-analytics-power-bi-project)
 
 ## Skills
 
-- AI utility for Business Intelligence
+- Microsoft Power Platform (Power BI, Power Query, Power Automate)
 - Python
 - SQL
-- Power BI
 - Excel
 - DAX
-- Power Query
 - Data visualization
 - Data cleaning
 - ETL processes
