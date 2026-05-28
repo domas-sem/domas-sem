@@ -14,7 +14,7 @@ I recently completed intensive data analytics training and continue improving my
 
 - Python for data analysis and automation
 - SQL for querying, filtering, aggregation, and database problem-solving
-- Power BI reports using DAX and data visualizations
+- Power BI reports using DAX, Power Query and data visualizations
 - Excel for structured analysis and reporting
 - ETL and data preparation workflows
 
