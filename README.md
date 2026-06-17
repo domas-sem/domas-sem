@@ -18,9 +18,15 @@ I recently completed intensive data analytics training and continue improving my
 - Excel for structured analysis and reporting
 - ETL and data preparation workflows
 
+  ## How I use AI in my learning
+
+I actively integrate AI tools into my learning and portfolio building process.  
+I treat AI as a partner for learning process, code review, documentation, and structuring projects – not as a replacement for my own work.  
+This also helps me practice writing clear, focused prompts and iterating on solutions, which I see as an important skill for modern data analysts.
+
 ## Current focus
 
-Right now I am publishing my portfolio projects and continuing to build new ones.
+Right now I am publishing my portfolio projects and continuing to build new ones, using AI tools to refine code, documentation, and project structure while still writing and understanding all the analysis myself.
 
 - Starting with Python and SQL practice work from my CodeAcademy Data Analytics course.
 - EuroLeague Basketball Analytics dashboard built with Power BI, DAX, and Power Query, covering 10 seasons of data.
