@@ -18,7 +18,7 @@ I recently completed intensive data analytics training and continue improving my
 - Excel for structured analysis and reporting
 - ETL and data preparation workflows
 
-  ## How I use AI in my learning
+## How I use AI in my learning
 
 I actively integrate AI tools into my learning and portfolio building process.  
 I treat AI as a partner for learning process, code review, documentation, and structuring projects – not as a replacement for my own work.  
