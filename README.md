@@ -70,7 +70,7 @@ I am looking for an opportunity to start my career as a Junior Data Analyst wher
 
 ## Connect with me
 
-- Location: Kaunas, Lithuania
+- Location: Lithuania
 - GitHub: [domas-sem](https://github.com/domas-sem)
 - LinkedIn: [www.linkedin.com/in/domas-semenauskas](https://www.linkedin.com/in/domas-semenauskas)
 
