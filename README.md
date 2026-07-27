@@ -1,6 +1,6 @@
 # Hi, I'm Domas Semenauskas
 
-am an analytical, curious and detail-oriented Data Analyst focused on turning raw data into clear, actionable insights.
+I am an analytical, curious and detail-oriented Data Analyst focused on turning raw data into clear, actionable insights.
 
 ## About me
 
