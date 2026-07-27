@@ -31,6 +31,7 @@ Right now I am publishing my portfolio projects and continuing to build new ones
 - Starting with Python and SQL practice work from my CodeAcademy Data Analytics course.
 - EuroLeague Basketball Analytics dashboard built with Power BI, DAX, and Power Query, covering 10 seasons of data.
 - DataCamp Snowflake SQL practice, focusing on CTEs, CASE expressions, and query patterns for analysis and data quality.
+- Insurance Fraud Analytics dashboard combining Python data cleaning with an interactive Power BI report.
 
 
 You can already see this in my practice repository:
@@ -38,6 +39,7 @@ You can already see this in my practice repository:
 - [`codecademy-data-analytics-course-practice`](https://github.com/domas-sem/codecademy-data-analytics-course-practice)
 - [`euroleague-analytics-power-bi-project`](https://github.com/domas-sem/euroleague-analytics-power-bi-project)
 - [`datacamp-courses-practice`](https://github.com/domas-sem/datacamp-courses-practice)
+- [`Power-BI_projects`](https://github.com/domas-sem/Power-BI_projects)
 
 ## Skills
 
