@@ -21,7 +21,7 @@ I recently completed intensive data analytics training and continue improving my
 ## How I use AI in my learning
 
 I actively integrate AI tools into my learning and portfolio building process.  
-I treat AI as a partner for learning process, code review, documentation, and structuring projects – not as a replacement for my own work.  
+I treat AI tools as a partner for learning process, code review, documentation, and structuring projects but not as a replacement for my own work.  
 This also helps me practice writing clear, focused prompts and iterating on solutions, which I see as an important skill for modern data analysts.
 
 ## Current focus
