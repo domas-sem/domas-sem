@@ -1,79 +1,54 @@
 # Hi, I'm Domas Semenauskas
 
-I am an analytical, curious and detail-oriented Data Analyst focused on turning raw data into clear, actionable insights.
+I am an analytical, curious, and detail-oriented Data Analyst building end-to-end analytics projects with Python, SQL, Power BI, and Excel.
 
-## About me
+I am drawn to data analysis by the challenge of building logical data structures, identifying patterns, and turning complex datasets into clear visuals and actionable insights.
 
-I am currently building my path in data analytics and actively working toward a Junior Data Analyst role in Lithuania.
+## About Me
 
-My interest in data comes from the challenge of organizing messy datasets, identifying patterns, and transforming data into practical business insights.
+I am actively building my career in data analytics after completing intensive practical training through CodeAcademy. I continue developing my skills through hands-on projects that cover the full workflow: data preparation, analysis, modelling, visualization, documentation, and business-focused storytelling.
 
-I recently completed intensive data analytics training and continue improving my skills through hands-on practice and portfolio development.
+I enjoy investigating data-quality issues, identifying patterns, and presenting findings in a way that supports decisions.
 
-## What I'm learning and building
+## Technical Skills
 
+- **Analytics & BI:** Power BI, DAX, Power Query, Excel
+- **Programming & data:** Python, pandas, NumPy, SQL
+- **Core skills:** Data cleaning, ETL workflows, data modelling, KPI design, segmentation, exploratory data analysis, and data visualization
+- **Reporting:** Interactive dashboards, slicers, drillthroughs, conditional formatting, trend analysis, and report-page tooltips
+
+## Current Projects
+
+- **[Insurance Fraud Analytics](https://github.com/domas-sem/Power-BI_projects/tree/main/insurance-fraud-analytics)** — Python and Power BI project analyzing 1,000 insurance claims; identified 247 fraudulent claims, a 24.70% fraud rate, and approximately $14.9M in fraud exposure.
+
+- **[EuroLeague Basketball Analytics](https://github.com/domas-sem/euroleague-analytics-power-bi-project)** — Interactive Power BI dashboard analyzing 10 EuroLeague seasons (2016–17 to 2025–26), covering team standings, player performance, Final Four history, travel impact, and budget efficiency.
+
+- **[Global Superstore Analysis](https://github.com/domas-sem/Power-BI_projects/tree/main/Global_superstore_analysis)** — End-to-end global retail analytics project combining Python data preparation and a four-page Power BI report for sales trends, profitability, returns, regional performance, and time-based analysis.
+
+- **[DataCamp Snowflake SQL Practice](https://github.com/domas-sem/datacamp-courses-practice)** — Practical Snowflake SQL exercises covering CTEs, `CASE` expressions, window functions, aggregations, analytical queries, and data-quality checks.
+
+- **[CodeAcademy Data Analytics Practice](https://github.com/domas-sem/codecademy-data-analytics-course-practice)** — Python and SQL practice repository developed during intensive data analytics training, focused on exploratory analysis, data transformation, and database problem-solving.
+
+## Currently Learning
+
+- Advanced SQL patterns and queries: CTEs, `CASE` expressions, window functions, aggregations, and data-quality checks
 - Python for data analysis and automation
-- SQL for querying, filtering, aggregation, and database problem-solving
-- Power BI reports using DAX, Power Query and data visualizations
-- Excel for structured analysis and reporting
+- DWH principles through Snowflake SQL and DataCamp practice
+- Excel-based reporting and dashboard design
 - ETL and data preparation workflows
+- Building additional focused portfolio projects in Excel, Python, SQL, and Power BI
 
-## How I use AI in my learning
+## How I Use AI in My Learning
 
-I actively integrate AI tools into my learning and portfolio building process.  
-I treat AI tools as a partner for learning process, code review, documentation, and structuring projects but not as a replacement for my own work.  
-This also helps me practice writing clear, focused prompts and iterating on solutions, which I see as an important skill for modern data analysts.
+I use AI tools as learning and productivity partners for code review, documentation, debugging, and project structure—not as a replacement for my own work.
 
-## Current focus
+I validate outputs, understand the underlying logic, and retain ownership of the analysis and decisions. Using AI also helps me practice writing clear prompts and iterating on solutions.
 
-Right now I am publishing my portfolio projects and continuing to build new ones, using AI tools to refine code, documentation, and project structure while still writing and understanding all the analysis myself.
+## Career Goal
 
-- Starting with Python and SQL practice work from my CodeAcademy Data Analytics course.
-- EuroLeague Basketball Analytics dashboard built with Power BI, DAX, and Power Query, covering 10 seasons of data.
-- DataCamp Snowflake SQL practice, focusing on CTEs, CASE expressions, and query patterns for analysis and data quality.
-- Insurance Fraud Analytics dashboard combining Python data cleaning with an interactive Power BI report.
+I am looking for an opportunity to start my career as a Junior Data Analyst where I can apply analytical thinking, continue progressing professionally, and contribute through data-driven problem solving.
 
+## Connect With Me
 
-You can already see this in my practice repository:
-
-- [`codecademy-data-analytics-course-practice`](https://github.com/domas-sem/codecademy-data-analytics-course-practice)
-- [`euroleague-analytics-power-bi-project`](https://github.com/domas-sem/euroleague-analytics-power-bi-project)
-- [`datacamp-courses-practice`](https://github.com/domas-sem/datacamp-courses-practice)
-- [`Power-BI_projects`](https://github.com/domas-sem/Power-BI_projects)
-
-## Skills
-
-- Microsoft Power Platform (Power BI, Power Query, Power Automate)
-- Python
-- SQL
-- Excel
-- DAX
-- Data visualization
-- Data cleaning
-- ETL processes
-- Business process optimization
-
-## Portfolio direction
-
-This GitHub profile will be used to showcase my progress and practical projects in:
-
-- Python data analysis
-- SQL querying and database exercises
-- Data cleaning and transformation tasks
-- Dashboarding and reporting
-
-As I continue learning, I will gradually add more focused portfolio projects alongside my practice repositories.
-
-## Career goal
-
-I am looking for an opportunity to start my career as a Junior Data Analyst where I can apply analytical thinking, continue learning, and contribute through data-driven problem solving.
-
-## Connect with me
-
-- Location: Lithuania
-- GitHub: [domas-sem](https://github.com/domas-sem)
-- LinkedIn: [www.linkedin.com/in/domas-semenauskas](https://www.linkedin.com/in/domas-semenauskas)
-
-<!--
-**domas-sem/domas-sem** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+- **Location:** Vilnius, Lithuania
+- **LinkedIn:** [domas-semenauskas](https://www.linkedin.com/in/domas-semenauskas/)
