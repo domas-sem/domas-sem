@@ -6,7 +6,7 @@ I am drawn to data analysis by the challenge of building logical data structures
 
 ## About Me
 
-I am actively building my career in data analytics after completing intensive practical training through CodeAcademy. I continue developing my skills through hands-on projects that cover the full workflow: data preparation, analysis, modelling, visualization, documentation, and business-focused storytelling.
+I am actively building my career in data analytics after completing intensive practical training through CodeAcademy Lithuania. I continue developing my skills through hands-on projects that cover the full workflow: data preparation, analysis, modelling, visualization, documentation, and business-focused storytelling.
 
 I enjoy investigating data-quality issues, identifying patterns, and presenting findings in a way that supports decisions.
 
