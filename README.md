@@ -19,6 +19,8 @@ I enjoy investigating data-quality issues, identifying patterns, and presenting 
 
 ## Current Projects
 
+- **[NYC Taxi Trips Analysis Dashboard](https://github.com/domas-sem/new-york-taxi-trips-powerbi-dashboard)** — Interactive Power BI dashboard analysing NYC taxi trip volume, fares, passengers, tips, travel distance, pickup and drop-off demand, borough distribution, and payment preferences. Includes DAX time intelligence, dynamic HTML insight cards, interactive slicers, cross-filtering, conditional formatting, and pickup/drop-off analysis using an inactive relationship.
+
 - **[Insurance Fraud Analytics](https://github.com/domas-sem/Power-BI_projects/tree/main/insurance-fraud-analytics)** — Python and Power BI project analyzing 1,000 insurance claims; identified 247 fraudulent claims, a 24.70% fraud rate, and approximately $14.9M in fraud exposure.
 
 - **[EuroLeague Basketball Analytics](https://github.com/domas-sem/euroleague-analytics-power-bi-project)** — Interactive Power BI dashboard analyzing 10 EuroLeague seasons (2016–17 to 2025–26), covering team standings, player performance, Final Four history, travel impact, and budget efficiency.
