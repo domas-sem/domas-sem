@@ -23,6 +23,8 @@ I enjoy investigating data-quality issues, identifying patterns, and presenting 
 
 - **[Insurance Fraud Analytics](https://github.com/domas-sem/Power-BI_projects/tree/main/insurance-fraud-analytics)** — Python and Power BI project analyzing 1,000 insurance claims; identified 247 fraudulent claims, a 24.70% fraud rate, and approximately $14.9M in fraud exposure.
 
+- **[U.S. Medical Insurance Costs Analysis](https://github.com/domas-sem/us-medical-insurance-costs)** — Exploratory data analysis project completed as part of the Codecademy Data Scientist career path. Used Python, pandas, Matplotlib, and Jupyter Notebook to analyze 1,337 cleaned medical insurance records. Key findings included smokers having average charges approximately 3.8× higher than non-smokers and a strongly right-skewed distribution of insurance charges.
+
 - **[EuroLeague Basketball Analytics](https://github.com/domas-sem/euroleague-analytics-power-bi-project)** — Interactive Power BI dashboard analyzing 10 EuroLeague seasons (2016–17 to 2025–26), covering team standings, player performance, Final Four history, travel impact, and budget efficiency.
 
 - **[Global Superstore Analysis](https://github.com/domas-sem/Power-BI_projects/tree/main/Global_superstore_analysis)** — End-to-end global retail analytics project combining Python data preparation and a four-page Power BI report for sales trends, profitability, returns, regional performance, and time-based analysis.
