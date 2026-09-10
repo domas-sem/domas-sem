@@ -44,9 +44,11 @@ I enjoy investigating data-quality issues, identifying patterns, and presenting 
 
 ## How I Use AI in My Learning
 
-I use AI tools as learning and productivity partners for code review, documentation, debugging, and project structure—not as a replacement for my own work.
+I use AI as a learning and productivity partner throughout my data analytics journey—from exploring project ideas and defining scope to coding, debugging, documentation, portfolio structure, and publishing completed work.
 
-I validate outputs, understand the underlying logic, and retain ownership of the analysis and decisions. Using AI also helps me practice writing clear prompts and iterating on solutions.
+AI helps me turn broad ideas into clearer project plans, review and troubleshoot code, improve the structure and clarity of my GitHub repositories, and communicate my work more effectively. I use it to accelerate learning, explore alternatives, and iterate on solutions.
+
+I remain responsible for understanding the logic, validating results, making implementation decisions, and owning the final analysis in every project.
 
 ## Career Goal
 
