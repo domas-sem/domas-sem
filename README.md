@@ -6,7 +6,13 @@ I am drawn to data analysis by the challenge of building logical data structures
 
 ## About Me
 
-I am actively building my career in data analytics after completing intensive practical training through CodeAcademy Lithuania. I continue developing my skills through hands-on projects that cover the full workflow: data preparation, analysis, modelling, visualization, documentation, and business-focused storytelling.
+## About Me
+
+I am actively building my career in data analytics after completing an intensive practical skills course in Data Analytics and Business Process Automation through CodeAcademy Lithuania. 
+
+I also worked on  codecademy separate, interactive online Data Scientist Career Path, which provided additional hands-on practice with Python, exploratory data analysis, and data visualization.
+
+I continue developing my skills through hands-on projects that cover the full workflow: data preparation, analysis, modelling, visualization, documentation, and business-focused storytelling.
 
 I enjoy investigating data-quality issues, identifying patterns, and presenting findings in a way that supports decisions.
 
@@ -21,11 +27,13 @@ I enjoy investigating data-quality issues, identifying patterns, and presenting 
 
 - **[NYC Taxi Trips Analysis Dashboard](https://github.com/domas-sem/new-york-taxi-trips-powerbi-dashboard)** — Interactive Power BI dashboard analysing NYC taxi trip volume, fares, passengers, tips, travel distance, pickup and drop-off demand, borough distribution, and payment preferences. Includes DAX time intelligence, dynamic HTML insight cards, interactive slicers, cross-filtering, conditional formatting, and pickup/drop-off analysis using an inactive relationship.
 
+- **[EuroLeague Basketball Analytics](https://github.com/domas-sem/euroleague-analytics-power-bi-project)** — Interactive Power BI dashboard analyzing 10 EuroLeague seasons (2016–17 to 2025–26), covering team standings, player performance, Final Four history, travel impact, and budget efficiency.
+
 - **[Insurance Fraud Analytics](https://github.com/domas-sem/Power-BI_projects/tree/main/insurance-fraud-analytics)** — Python and Power BI project analyzing 1,000 insurance claims; identified 247 fraudulent claims, a 24.70% fraud rate, and approximately $14.9M in fraud exposure.
 
-- **[U.S. Medical Insurance Costs Analysis](https://github.com/domas-sem/us-medical-insurance-costs)** — Exploratory data analysis project completed as part of the Codecademy Data Scientist career path. Used Python, pandas, Matplotlib, and Jupyter Notebook to analyze 1,337 cleaned medical insurance records. Key findings included smokers having average charges approximately 3.8× higher than non-smokers and a strongly right-skewed distribution of insurance charges.
+- **[GDP and Life Expectancy Analysis](https://github.com/domas-sem/gdp-life-expectancy-analysis)** — Exploratory Python analysis of GDP and life-expectancy trends across Chile, China, Germany, Mexico, the United States, and Zimbabwe from 2000 to 2015. Used pandas and Matplotlib to perform data-quality checks, descriptive statistics, country-level comparisons, GDP Growth Index analysis, trend visualizations, and Pearson correlation analysis. The project finds a pooled GDP–life-expectancy correlation of 0.343 and documents the limitations of using total GDP and observational data.
 
-- **[EuroLeague Basketball Analytics](https://github.com/domas-sem/euroleague-analytics-power-bi-project)** — Interactive Power BI dashboard analyzing 10 EuroLeague seasons (2016–17 to 2025–26), covering team standings, player performance, Final Four history, travel impact, and budget efficiency.
+- **[U.S. Medical Insurance Costs Analysis](https://github.com/domas-sem/us-medical-insurance-costs)** — Exploratory data analysis project completed through Codecademy’s interactive online Data Scientist Career Path. Used Python, pandas, Matplotlib, and Jupyter Notebook to analyze 1,337 cleaned medical-insurance records. Key findings included smokers having average charges approximately 3.8× higher than non-smokers and a strongly right-skewed distribution of insurance charges.
 
 - **[Global Superstore Analysis](https://github.com/domas-sem/Power-BI_projects/tree/main/Global_superstore_analysis)** — End-to-end global retail analytics project combining Python data preparation and a four-page Power BI report for sales trends, profitability, returns, regional performance, and time-based analysis.
 
