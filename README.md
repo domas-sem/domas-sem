@@ -20,6 +20,7 @@ I enjoy investigating data-quality issues, identifying patterns, and presenting 
 - **Programming & data:** Python, pandas, NumPy, SQL
 - **Core skills:** Data cleaning, ETL workflows, data modelling, KPI design, segmentation, exploratory data analysis, and data visualization
 - **Reporting:** Interactive dashboards, slicers, drillthroughs, conditional formatting, trend analysis, and report-page tooltips
+- **AI-assisted workflow:** Using AI tools to support learning, code troubleshooting and review, documentation refinement, project structuring, and solution exploration; validating logic, results, and final implementation independently
 
 ## Current Projects
 
