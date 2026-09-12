@@ -47,7 +47,7 @@ I enjoy investigating data-quality issues, identifying patterns, and presenting 
 - DWH principles through Snowflake SQL and DataCamp practice
 - Excel-based reporting and dashboard design
 - ETL and data preparation workflows
-- Building additional focused portfolio projects in Excel, Python, SQL, and Power BI
+- Building additional focused portfolio projects in Excel, Python, and Power BI
 
 ## How I Use AI in My Learning
 
