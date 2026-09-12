@@ -6,8 +6,6 @@ I am drawn to data analysis by the challenge of building logical data structures
 
 ## About Me
 
-## About Me
-
 I am actively building my career in data analytics after completing an intensive practical skills course in Data Analytics and Business Process Automation through CodeAcademy Lithuania. 
 
 I also worked on  codecademy separate, interactive online Data Scientist Career Path, which provided additional hands-on practice with Python, exploratory data analysis, and data visualization.
