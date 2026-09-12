@@ -10,7 +10,7 @@ I am actively building my career in data analytics after completing an intensive
 
 I also worked on  codecademy separate, interactive online Data Scientist Career Path, which provided additional hands-on practice with Python, exploratory data analysis, and data visualization.
 
-I continue developing my skills through hands-on projects that cover the full workflow: data preparation, analysis, modelling, visualization, documentation, and business-focused storytelling.
+Therefore, my goal is to continue developing my skills through hands-on projects that cover the full workflow: data preparation, analysis, modelling, visualization, documentation, and business-focused storytelling.
 
 I enjoy investigating data-quality issues, identifying patterns, and presenting findings in a way that supports decisions.
 
