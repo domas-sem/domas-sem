@@ -8,16 +8,16 @@ I am drawn to data analysis by the challenge of building logical data structures
 
 I am actively building my career in data analytics after completing an intensive practical skills course in Data Analytics and Business Process Automation through CodeAcademy Lithuania. 
 
-I also worked on  codecademy separate, interactive online Data Scientist Career Path, which provided additional hands-on practice with Python, exploratory data analysis, and data visualization.
+My learning process also included partial study through Codecademy’s separate, interactive online Data Scientist Career Path, providing additional hands-on practice with Python, SQL, statistics, exploratory data analysis, and data visualization.
 
-Therefore, my goal is to continue developing my skills through hands-on projects that cover the full workflow: data preparation, analysis, modelling, visualization, documentation, and business-focused storytelling.
+Today, the focus is on building end-to-end projects that cover data preparation, analysis, modeling, visualization, documentation, and business-focused storytelling.
 
 I enjoy investigating data-quality issues, identifying patterns, and presenting findings in a way that supports decisions.
 
 ## Technical Skills
 
 - **Analytics & BI:** Power BI, DAX, Power Query, Excel
-- **Programming & data:** Python, pandas, NumPy, SQL
+- **Programming & data:** Python, pandas, NumPy, Jupyter Notebook, SQL
 - **Core skills:** Data cleaning, ETL workflows, data modelling, KPI design, segmentation, exploratory data analysis, and data visualization
 - **Reporting:** Interactive dashboards, slicers, drillthroughs, conditional formatting, trend analysis, and report-page tooltips
 - **AI-assisted workflow:** Using AI tools to support learning, code troubleshooting and review, documentation refinement, project structuring, and solution exploration; validating logic, results, and final implementation independently
